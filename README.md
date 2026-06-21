@@ -1,6 +1,11 @@
 # YOLO-Attendance-System
 Automated Attendance System using YOLOv5 and Deep Learning
 
+## 🚧 Project Status
+
+This repository currently contains project documentation and structure.
+
+The source code, dataset, project report, and experimental results will be uploaded as the project development progresses.
 
 ## 📖 Project Overview
 
